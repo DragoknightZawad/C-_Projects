@@ -1,0 +1,18 @@
+H:\c#\ex\E Health Care\bin\Debug\E Health Care.exe.config
+H:\c#\ex\E Health Care\bin\Debug\E Health Care.exe
+H:\c#\ex\E Health Care\bin\Debug\E Health Care.pdb
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.MainMenu.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.Properties.Resources.resources
+H:\c#\ex\E Health Care\obj\Debug\E Health Care.csproj.GenerateResource.cache
+H:\c#\ex\E Health Care\obj\Debug\E Health Care.exe
+H:\c#\ex\E Health Care\obj\Debug\E Health Care.pdb
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.PatientMenu1.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.PatientSignup.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.PatientMenu2.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.PatientMenu3.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.PatientMenu4.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.Appointment.resources
+H:\c#\ex\E Health Care\obj\Debug\E Health Care.csprojAssemblyReference.cache
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.DoctorMenu1.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.DoctorSighnup.resources
+H:\c#\ex\E Health Care\obj\Debug\E_Health_Care.DoctorMenu2.resources
